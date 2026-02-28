@@ -1,0 +1,6 @@
+{
+	"name": "Pit-SelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

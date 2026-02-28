@@ -1,0 +1,9 @@
+{
+	"name": "pitdatafactory",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8afde25f-2c60-4555-9f0b-e313da1e03f8",
+		"tenantId": "d22cf7c2-e922-478e-8524-b442f61083a9"
+	}
+}
